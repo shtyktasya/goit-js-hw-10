@@ -1,0 +1,21 @@
+form {
+  width: calc((100% - 24px) / 2);
+}
+
+fieldset {
+  margin: 0;
+  width: 100%;
+}
+
+button {
+  margin-top: 8px;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 0 8px;
+  color: #000;
+  background-color: #babbbd;
+  border: 1px solid #5f6061;
+  border-radius: 4px;
+}
